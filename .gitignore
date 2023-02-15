@@ -1,0 +1,5 @@
+/build
+.env
+/logs/*.log
+.pdf
+dd
